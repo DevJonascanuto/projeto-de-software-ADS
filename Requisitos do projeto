@@ -1,0 +1,9 @@
+# Requisitos do Software - Projeto de software da unidade 4   
+## 1. Requisitos Funcionais  
+- RF001: O sistema deve permitir login de usuários autenticados.  
+- RF002: Deve ser possível gerar relatórios em PDF.  
+- RF003: O sistema deve suportar múltiplos idiomas.  
+
+## 2. Requisitos Não Funcionais  
+- RNF001: O tempo de resposta não deve ultrapassar 2 segundos.  
+- RNF002: O sistema deve garantir 99,9% de disponibilidade.  
